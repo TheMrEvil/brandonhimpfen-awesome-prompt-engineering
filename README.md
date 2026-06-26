@@ -46,6 +46,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 ## Prompt Engineering Tools
 
 - **[LangChain](https://www.langchain.com/)** – Framework for developing applications using LLMs with advanced prompt orchestration.
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - **[PromptLayer](https://www.promptlayer.com/)** – Prompt management and version control for LLM prompts.
 - **[Promptfoo](https://promptfoo.dev/)** – Tool for testing, evaluating, and benchmarking prompts.
 - **[Chainlit](https://www.chainlit.io/)** – Open-source framework for developing LLM-powered apps with prompt visibility.
